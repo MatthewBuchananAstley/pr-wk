@@ -10,7 +10,7 @@
 # op astley.nl.
 #
 # Het script gebruikt daarvoor de output van het commando 'last -F'.
-# De output van is zo te verkrijgen: last -F > last.out 
+# De output daarvan is zo te verkrijgen: last -F > last.out 
 #
 # ./pr_wt.py 'last.out' 'jaar' 'weeknummer' 'gebruikersnaam' 
 #
