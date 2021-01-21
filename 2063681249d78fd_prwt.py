@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 # 
 # 2021 01 21 Matthew Buchanan Astley
+#
+# last -F > last.out
+# ./2063681249d78fd_prwt.py last.out 2020 1 'username'
 # 
+
 import os,sys
 import datetime
 
