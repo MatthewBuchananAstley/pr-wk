@@ -10,10 +10,6 @@ description: |
 grade: stable # must be 'stable' to release into candidate/stable channels
 confinement: devmode # use 'strict' once you have the right plugs and slots
 
-#apps:
-#  pr-wt:
-#    command: /snap/pr-wk/current/snap/pwrt_local.py
-
 parts:
   my-part:
     # See 'snapcraft plugins'
