@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#
+# 
 # Een nieuw script om de totalen van de uren per week dat de computer aanstond te tonen.
 # A new script to show the total number of hours the computer was on per week.
 # Werkt op een ubuntu werkstation.
@@ -8,7 +8,7 @@
 # last -F > last.out 
 # ./pwrt_local.py last.out
 # ./pwrt_local.py last.out 'weeknumber'
-#
+# 2021 Matthew Buchanan Astley
  
 import os,sys
 import time
