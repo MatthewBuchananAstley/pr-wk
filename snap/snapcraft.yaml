@@ -12,7 +12,7 @@ confinement: devmode # use 'strict' once you have the right plugs and slots
 
 apps:
   pr-wt:
-    command: /bin/pwrt_local.py
+    command: /snap/pr-wk/current/snap/pwrt_local.py
 
 parts:
   my-part:
