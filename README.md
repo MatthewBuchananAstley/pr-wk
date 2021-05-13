@@ -1,2 +1,2 @@
 # pr-wk
-Script to quickly sum local login session times
+Script to quickly sum local login session time.
